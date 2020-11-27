@@ -18,6 +18,9 @@ Skills:
 - GraphQL
 - Python 
 - Django
+- PHP/Laravel
+- Docker
+- FullCycle Developer Student 
 - Data Science Student Machine Learning
 
 
