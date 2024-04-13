@@ -24,7 +24,7 @@ Skills:
 - Data Science Student Machine Learning
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)]([https://www.linkedin.com/in/danubio-de-araújo-a83b99a2/](https://www.linkedin.com/in/danubiodearaújo/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/danubiodearaújo/)
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://pt.stackoverflow.com/users/174842/danubio-de-araújo)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danubio.bwm@gmail.com)](mailto:danubio.bwm@gmail.com)
 
