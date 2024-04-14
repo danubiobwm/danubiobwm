@@ -10,6 +10,7 @@ About my degree, I have a bachelor's degree in Information Systems I finished at
 Whenever possible, I try to recycle and improve my knowledge in the technologies I use by adopting good practices, studying more about these technologies, for example.
 
 Skills:
+- Golang
 - JavaScript
 - ReactJS
 - React Native
