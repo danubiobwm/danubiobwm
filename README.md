@@ -53,6 +53,6 @@ I constantly seek to improve my skills and adopt the best practices in developme
 [![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://pt.stackoverflow.com/users/174842/danubio-de-araújo)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danubio.bwm@gmail.com)](mailto:danubio.bwm@gmail.com)
 
-**Cursos e Aprendizados:**
+**Courses and Apprenticeships:**
 
 👨🏼‍🏫 💻 - Courses - It's are technical courses on many technologies, such as Django, Flask, 🐍️Python, React, React-Native, 🐍️ Anaconda, Jupyter, 👨‍💻️ Data Science Git and more.
