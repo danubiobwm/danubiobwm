@@ -28,7 +28,6 @@ enabling me to deliver high-performance, scalable and reliable solutions.
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
