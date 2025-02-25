@@ -3,7 +3,7 @@ With more than 8 years of experience in the IT industry, I am a Fullstack develo
 specializing in C#, Python, Golang, Java and JavaScript. Throughout my career, I have acquired extensive knowledge and expertise in these technologies, 
 enabling me to deliver high-performance, scalable and reliable solutions.
 
-**Minhas Habilidades:**
+**My Skills:**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="40" height="40"/>
