@@ -9,9 +9,8 @@ enabling me to deliver high-performance, scalable and reliable solutions.
   <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=reactnative" alt="React Native" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=adonisjs" alt="AdonisJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
