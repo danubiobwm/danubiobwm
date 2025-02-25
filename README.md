@@ -8,17 +8,33 @@ enabling me to deliver high-performance, scalable and reliable solutions.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=deno" alt="deno" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="cs" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=elixir" alt="elixir" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=rails" alt="rails" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/>
 </p>
 
 **My Journey:**
