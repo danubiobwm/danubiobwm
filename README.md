@@ -7,25 +7,9 @@ With more than 8 years of experience in the IT industry, I am a Fullstack develo
 **My Skills:**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=golang" alt="Golang" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,js,ts,css,html,dotnet,aws,py,java,nodejs,react,nestjs,postgres,docker,git,github,mongodb,redis,mysql" />
+  </a>
 </p>
 
 ---
