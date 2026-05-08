@@ -13,18 +13,12 @@ With more than 8 years of experience in the IT industry, I am a Fullstack develo
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/>
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
